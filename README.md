@@ -9,9 +9,15 @@ is divided into multiple sub-tasks with different difficulty levels and multiple
 tasks will build upon the experience and knowledge you have gained in the earlier tasks.
 
 Completing all tasks will give you a good understanding of:
+
 • The use of operating system APIs in Linux.
+
 • Critical sections, semaphores, mutexes, and the principles of synchronisation/mutual exclusion.
+
 • Basic process/thread scheduling algorithms and evaluation criteria for process scheduling.
+
 • The implementation of linear bounded and unbounded buffers using linked lists.
+
 • The basics of concurrent/parallel programming using an operating system’s functionalities.
+
 • Different process scheduling algorithms and the working of the scheduling algorithm in Windows 7.
